@@ -1,0 +1,1 @@
+/* License is required to use this application */
